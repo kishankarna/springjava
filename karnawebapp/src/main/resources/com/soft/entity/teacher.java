@@ -1,6 +1,6 @@
 class Teacher{
 	
-	
+	//karna
 	private Integer Id;
 	private String name;
 	private String address;
